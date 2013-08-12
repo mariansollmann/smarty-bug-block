@@ -1,0 +1,6 @@
+{
+	"name": "test",
+	"require": {
+		"smarty/smarty": "dev-trunk"
+	}
+}
